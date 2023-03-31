@@ -1,6 +1,6 @@
 Name:		texlive-texlive.infra
 Version:	63645
-Release:	1
+Release:	2
 Summary:	basic TeX Live infrastructure
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texlive.infra
